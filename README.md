@@ -31,6 +31,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gedenoss/gedenoss/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/gedenoss/gedenoss/main/snake.svg" alt="Snake animation" />
 
 ###
