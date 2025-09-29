@@ -43,8 +43,6 @@
 
 </div>
 
-<br><br>
-
 <div align="center">
 
   <img src="https://raw.githubusercontent.com/gedenoss/gedenoss/output/snake.svg" alt="Snake animation" />
