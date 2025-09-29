@@ -1,13 +1,14 @@
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=gedenoss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&cache_seconds=1" height="150" alt="stats graph" /> 
-  <br><br>
-  <div align = "center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocussy&layout=donut&theme=dracula" alt="Top Languages" />
-</div>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=gedenoss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&cache_seconds=1" 
+       height="150" alt="Stats Graph" /> 
 
-<br><br>
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbouguer&layout=donut&theme=dracula" 
+       alt="Top Languages" />
+
+</div>
 
 <div align="center">
 
