@@ -5,7 +5,7 @@
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gedenoss&layout=donut&theme=dracula" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gedenoss&layout=compact&theme=dracula" 
        alt="Top Languages" />
 
 </div>
