@@ -3,10 +3,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gedenoss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&cache_seconds=1" 
        height="150" alt="Stats Graph" /> 
   <br><br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gedenoss&theme=dracula" alt="Top Languages" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gedenoss&include_all_commits=true&count_private=true&layout=classic&theme=dracula" alt="Top Languages" />
 
 </div>
-z
+
 <div align="center">
 
   <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxnNHp1MXg4enlvdWFoenAzdHl5YmJpdWE5YXZxZjU1cHFjYW16dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" alt="GIF animation" />
