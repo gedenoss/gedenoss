@@ -3,7 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ocussy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" 
        height="150" alt="Stats Graph" /> 
   <br><br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gedenoss&layout=compact&theme=dracula&langs_count=30" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gedenoss&layout=donut&theme=dracula&langs_count=30" />
 
 </div>
 
